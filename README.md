@@ -7,6 +7,6 @@ Problem1 can be run using command "python Problem1.py". The target value is fill
 
 Problem 2 uses the built-in itertools module. There is a helper function called permuations that uses the product method from itertools to calculate the number of permuations for each sum made by the two types of dice. The program can be run using the command "python Problem2.py". The result is printed at the end.
 
-Problem 3...
+Problem 3 uses the munkres module, which implements the Munkres/Hungarian algorithm. It is necessary to install this package to run the code. To run the file, use "python Problem3.py". The result is printed at the end.
 
 Each exercise was done in Python 3.
