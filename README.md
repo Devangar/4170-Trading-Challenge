@@ -7,6 +7,7 @@ Problem1 can be run using command "python Problem1.py". The target value is fill
 
 Problem 2 uses the built-in itertools module. There is a helper function called permuations that uses the product method from itertools to calculate the number of permuations for each sum made by the two types of dice. The program can be run using the command "python Problem2.py". The result is printed at the end. The expected answer is ~58.3%. The expected runtime is ~75 seconds.
 
-Problem 3 uses the munkres module, which implements the Munkres/Hungarian algorithm. It is necessary to install this package to run the code. To run the file, use "python Problem3.py". The result is printed at the end. The expected answer is 13938. The expected runtime is less than a second.
+Problem 3 can be run using the command "python Problem3.py". The result is printed at the end. The expected answer is 13938. The expected runtime is less than a second.
+Note: I was asked to not use the munkres library. My solution without the library is in Problem3_.py, which is unfinished but implements (most of) the Hungarian algorithm.
 
 Each exercise was done in Python 3.
